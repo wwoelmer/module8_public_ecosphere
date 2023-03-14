@@ -1,0 +1,36 @@
+q_no,question,category,answer
+Q1a,Creating a graph of environmental data ,Importance,
+Q1b,Analyzing an environmental dataset,Importance,
+Q1c,Modeling an ecosystem,Importance,
+Q1d,Generating an ecological forecast,Importance,
+Q1e,Quantifying an ecological forecast’s uncertainty ,Importance,
+Q1f,Communicating output from an ecological forecast,Importance,
+Q2a,Creating a graph of environmental data ,Proficiency,
+Q2b,Analyzing an environmental dataset,Proficiency,
+Q2c,Modeling an ecosystem,Proficiency,
+Q2d,Generating an ecological forecast,Proficiency,
+Q2e,Quantifying an ecological forecast’s uncertainty ,Proficiency,
+Q2f,Communicating output from an ecological forecast,Proficiency,
+Q3a,Creating a graph of environmental data ,Confidence,
+Q3b,Analyzing an environmental dataset,Confidence,
+Q3c,Modeling an ecosystem,Confidence,
+Q3d,Generating an ecological forecast,Confidence,
+Q3e,Quantifying an ecological forecast’s uncertainty ,Confidence,
+Q3f,Communicating output from an ecological forecast,Confidence,
+Q4,Creating a graph of environmental data ,Use these skills in the future,
+Q4b,Analyzing an environmental dataset,Use these skills in the future,
+Q4c,Modeling an ecosystem,Use these skills in the future,
+Q4d,Generating an ecological forecast,Use these skills in the future,
+Q4e,Quantifying an ecological forecast’s uncertainty ,Use these skills in the future,
+Q4f,Communicating output from an ecological forecast,Use these skills in the future,
+Q5,Current knowledge of ecological forecasting,Q5,
+Q6,Ecological forecast defintion,Q6,c
+Q7,Benefits of EF,Q7,
+Q8,Ways to visualize uncertainty,Q8,
+Q9,Describe forecast stakeholder,Q9,
+Q10,Uncertainty over time,Q10,b
+Q11,Components of structured decision-making,Q11,c
+Q12,Which of the following is the best description of the forecast presented in Figure 1?,Q12,b
+Q13,Which of the following is true about the forecast visualizations? ,Q13,d
+Q14,Which of the following is a forecast index?,Q14,b
+Q15,Which of the following visualizations options would be best (marine resource manager)?,Q15,c
